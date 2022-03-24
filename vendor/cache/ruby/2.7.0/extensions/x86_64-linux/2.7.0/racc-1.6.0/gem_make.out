@@ -1,0 +1,17 @@
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/home/n304x/.rbenv/versions/2.7.0/bin/ruby -I /home/n304x/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220324-29987-1aqicnu.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220324-29987-9bq0gm/racc

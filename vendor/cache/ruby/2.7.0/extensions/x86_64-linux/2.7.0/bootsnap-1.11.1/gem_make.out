@@ -1,0 +1,15 @@
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+/home/n304x/.rbenv/versions/2.7.0/bin/ruby -I /home/n304x/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220324-29987-15ptxa7.rb extconf.rb
+creating Makefile
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/n304x/Documents/projects/ruby-todo-app/todo/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220324-29987-vlxaa2/bootsnap
